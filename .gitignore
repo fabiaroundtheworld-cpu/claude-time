@@ -1,0 +1,9 @@
+# Personal data: never commit
+pc/
+cache/
+heartbeat
+dashboard.html
+# Generated
+preview.html
+mod/.claude-plugin/types/
+node_modules/

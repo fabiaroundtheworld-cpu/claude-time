@@ -1,0 +1,7 @@
+{
+  "name": "timetrack",
+  "version": "0.1.0",
+  "description": "Shows your Claude Code, computer and Chrome time-tracking stats in a pane, a status line and /timetrack.",
+  "author": { "name": "fabia" },
+  "types": "./types/index.d.ts"
+}
